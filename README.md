@@ -12,3 +12,4 @@ This project uses GitHub Actions to run a simple CI workflow:
 - Setup Node.js
 - Run a simple echo command
 eeeeee
+mas gacell
